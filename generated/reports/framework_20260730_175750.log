@@ -1,0 +1,1 @@
+2026-07-30 17:57:50 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
