@@ -1,0 +1,5 @@
+groq==1.6.0
+pandas
+PySwip==0.3.3
+torch
+deepproblog
