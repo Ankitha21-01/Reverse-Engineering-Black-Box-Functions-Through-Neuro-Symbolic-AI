@@ -1,0 +1,5 @@
+2026-08-01 16:29:53 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-01 16:29:54 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-01 16:29:54 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-08-01 16:29:54 | INFO | Retrying request to /openai/v1/chat/completions in 28.000000 seconds
+2026-08-01 16:30:23 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
